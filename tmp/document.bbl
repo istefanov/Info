@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{downScale}
+P.~Cudré-Mauroux, G.~Demartini, I.~Enchev, C.~Guéret, and B.~Perroud.
+\newblock Downscaling entity registries for ad-hoc environments.
+\newblock In {\em First International Workshop on Downscaling the Semantic Web
+  co-located with the 9th Extended Semantic Web conference, Heraklion, Greece},
+  May 2012.
+
+\bibitem{bowlognaBench}
+G.~Demartini, I.~Enchev, J.~Gapany, and P.~Cudré-Mauroux.
+\newblock Bowlognabench-benchmarking rdf analytics.
+\newblock In {\em First International Symposium on Data-driven Process
+  Discovery and Analysis (SIMPDA 2011), Campione d'Italia, Italy}, pages
+  29--43, June 2011.
+
+\bibitem{bowlFost}
+G.~Demartini, I.~Enchev, J.~Gapany, P.~Cudré-Mauroux, and Agarwal.
+\newblock The bowlogna ontology: Fostering open curricula and agile knowledge
+  bases for europe's higher education landscape.
+\newblock {\em Semantic Web - Interoperability, Usability, Applicability},
+  2012.
+
+\end{thebibliography}
