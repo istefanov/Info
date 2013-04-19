@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  27 NOV 2012 18:12
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  19 APR 2013 15:30
 entering extended mode
 **document.tex
-(C:\mystuff\work\workspaces\texclipseWspace\CV1\document.tex
+(C:\mystuff\workspaceGitCv\Info\document.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -256,7 +256,7 @@ put line 292.
 LaTeX Info: Redefining \today on input line 724.
 \dt@a=\toks19
 \dt@b=\toks20
-) (C:\mystuff\work\workspaces\texclipseWspace\CV1\document.aux)
+) (C:\mystuff\workspaceGitCv\Info\document.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
 LaTeX Font Info:    ... okay on input line 86.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
@@ -358,66 +358,59 @@ File: IMG_9061cropped3.jpg Graphic file (type jpg)
 Package pdftex.def Info: IMG_9061cropped3.jpg used on input line 113.
 (pdftex.def)             Requested size: 105.2751pt x 108.76753pt.
 
-Overfull \hbox (78.86089pt too wide) in paragraph at lines 96--123
+Overfull \hbox (78.86089pt too wide) in paragraph at lines 96--124
 []$[]$ $[]$
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 130--139
+Overfull \hbox (10.16891pt too wide) in paragraph at lines 131--196
 [][] 
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 141--154
+Overfull \hbox (10.16891pt too wide) in paragraph at lines 199--205
 [][] 
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 159--168
+Overfull \hbox (10.16891pt too wide) in paragraph at lines 207--212
 [][] 
  []
 
 [1
 
 {C:/Users/iliya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/mystuff/
-work/workspaces/texclipseWspace/CV1/IMG_9061cropped3.jpg>]
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 170--190
+workspaceGitCv/Info/IMG_9061cropped3.jpg>]
+Overfull \hbox (10.16891pt too wide) in paragraph at lines 225--244
 [][] 
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 218--226
+Overfull \hbox (10.16891pt too wide) in paragraph at lines 279--286
 [][] 
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 228--235
+Overfull \hbox (10.16891pt too wide) in paragraph at lines 288--295
 [][] 
  []
 
-
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 237--244
-[][] 
- []
-
-(C:\mystuff\work\workspaces\texclipseWspace\CV1\document.bbl) [2
-
-]
-(C:\mystuff\work\workspaces\texclipseWspace\CV1\document.aux) ) 
+(C:\mystuff\workspaceGitCv\Info\document.bbl) [2]
+(C:\mystuff\workspaceGitCv\Info\document.aux) ) 
 Here is how much of TeX's memory you used:
  3748 strings out of 494045
- 49796 string characters out of 3148386
- 216629 words of memory out of 3000000
+ 49652 string characters out of 3148386
+ 217629 words of memory out of 3000000
  6994 multiletter control sequences out of 15000+200000
  44052 words of font info for 39 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  37i,14n,45p,938b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/iliya/
-AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/iwona/rm-iwona.enc}<C:/Users/iliya/A
-ppData/Roaming/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonal.pfb><C:/Users/iliya/
-AppData/Roaming/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonali.pfb><C:/Users/iliy
-a/AppData/Roaming/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonam.pfb>
-Output written on document.pdf (2 pages, 541672 bytes).
+{C:/Users/iliya/AppData/Roaming/
+MiKTeX/2.9/fonts/enc/dvips/iwona/rm-iwona.enc}<C:/Users/iliya/AppData/Roaming/M
+iKTeX/2.9/fonts/type1/nowacki/iwona/iwonal.pfb><C:/Users/iliya/AppData/Roaming/
+MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonali.pfb><C:/Users/iliya/AppData/Roamin
+g/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonam.pfb>
+Output written on document.pdf (2 pages, 542876 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
