@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  3 JUN 2013 18:59
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  3 JUN 2013 22:51
 entering extended mode
 **document.tex
 (C:\mystuff\workspaceGitCv\Info\document.tex
@@ -351,12 +351,12 @@ LaTeX Font Info:    Try loading font information for OMX+iwonal on input line 1
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\omxiwonal.fd
 File: omxiwonal.fd 2008/07/22 v0.995 font definition file for OMX/iwonal (MW)
 )
-<PersonalFotoBgMaster1.png, id=1, 274.77657pt x 372.64218pt>
-File: PersonalFotoBgMaster1.png Graphic file (type png)
+<IMG_9061cropped3.jpg, id=1, 1355.8153pt x 1400.98407pt>
+File: IMG_9061cropped3.jpg Graphic file (type jpg)
 
-<use PersonalFotoBgMaster1.png>
-Package pdftex.def Info: PersonalFotoBgMaster1.png used on input line 115.
-(pdftex.def)             Requested size: 85.35826pt x 115.75668pt.
+<use IMG_9061cropped3.jpg>
+Package pdftex.def Info: IMG_9061cropped3.jpg used on input line 115.
+(pdftex.def)             Requested size: 105.2751pt x 108.76753pt.
 
 Overfull \hbox (80.68172pt too wide) in paragraph at lines 98--126
 []$[]$ $[]$
@@ -375,27 +375,27 @@ Overfull \hbox (9.8275pt too wide) in paragraph at lines 217--230
 [1
 
 {C:/Users/iliya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/mystuff/
-workspaceGitCv/Info/PersonalFotoBgMaster1.png>]
+workspaceGitCv/Info/IMG_9061cropped3.jpg>]
 Overfull \hbox (9.8275pt too wide) in paragraph at lines 243--267
 [][] 
  []
 
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 302--309
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 302--312
 [][] 
  []
 
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 311--320
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 314--323
 [][] 
  []
 
 (C:\mystuff\workspaceGitCv\Info\document.bbl) [2]
 (C:\mystuff\workspaceGitCv\Info\document.aux) ) 
 Here is how much of TeX's memory you used:
- 3747 strings out of 494045
- 49673 string characters out of 3148386
- 217634 words of memory out of 3000000
+ 3748 strings out of 494045
+ 49652 string characters out of 3148386
+ 217629 words of memory out of 3000000
  6994 multiletter control sequences out of 15000+200000
  44052 words of font info for 39 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -405,9 +405,9 @@ MiKTeX/2.9/fonts/enc/dvips/iwona/rm-iwona.enc}<C:/Users/iliya/AppData/Roaming/M
 iKTeX/2.9/fonts/type1/nowacki/iwona/iwonal.pfb><C:/Users/iliya/AppData/Roaming/
 MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonali.pfb><C:/Users/iliya/AppData/Roamin
 g/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonam.pfb>
-Output written on document.pdf (2 pages, 490935 bytes).
+Output written on document.pdf (2 pages, 544274 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
