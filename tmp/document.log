@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  31 MAY 2013 15:01
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  3 JUN 2013 18:43
 entering extended mode
 **document.tex
 (C:\mystuff\workspaceGitCv\Info\document.tex
@@ -257,20 +257,20 @@ LaTeX Info: Redefining \today on input line 724.
 \dt@a=\toks19
 \dt@b=\toks20
 ) (C:\mystuff\workspaceGitCv\Info\document.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Try loading font information for OT1+iwonal on input line 8
-6.
+8.
 
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\ot1iwonal.fd
 File: ot1iwonal.fd 2008/07/22 v0.995 font definition file for OT1/iwonal (MW)
@@ -297,15 +297,15 @@ File: ot1iwonal.fd 2008/07/22 v0.995 font definition file for OT1/iwonal (MW)
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(68.28644pt, 477.72212pt, 68.28644pt)
-* v-part:(T,H,B)=(68.28644pt, 658.39711pt, 68.28644pt)
+* h-part:(L,W,R)=(62.59596pt, 489.10307pt, 62.59596pt)
+* v-part:(T,H,B)=(62.59596pt, 669.77806pt, 62.59596pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=477.72212pt
-* \textheight=658.39711pt
-* \oddsidemargin=-3.98355pt
-* \evensidemargin=-3.98355pt
-* \topmargin=-40.98355pt
+* \textwidth=489.10307pt
+* \textheight=669.77806pt
+* \oddsidemargin=-9.67403pt
+* \evensidemargin=-9.67403pt
+* \topmargin=-46.67403pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -324,83 +324,78 @@ File: ot1iwonal.fd 2008/07/22 v0.995 font definition file for OT1/iwonal (MW)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--107
+Underfull \hbox (badness 10000) in paragraph at lines 99--109
 
  []
 
 LaTeX Font Info:    Try loading font information for OT1+iwonalm on input line 
-107.
+109.
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\ot1iwonalm.fd
 File: ot1iwonalm.fd 2005/10/05 v1.2 font definition file for OT1/iwonalm (MW)
 )
 LaTeX Font Info:    Try loading font information for OML+iwonal on input line 1
-07.
+09.
 
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\omliwonal.fd
 File: omliwonal.fd 2008/07/22 v0.995 font definition file for OML/iwonal (MW)
 )
 LaTeX Font Info:    Try loading font information for OMS+iwonal on input line 1
-07.
+09.
 
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\omsiwonal.fd
 File: omsiwonal.fd 2008/07/22 v0.995 font definition file for OMS/iwonal (MW)
 )
 LaTeX Font Info:    Try loading font information for OMX+iwonal on input line 1
-07.
+09.
 
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\omxiwonal.fd
 File: omxiwonal.fd 2008/07/22 v0.995 font definition file for OMX/iwonal (MW)
 )
-<IMG_9061cropped3.jpg, id=1, 1355.8153pt x 1400.98407pt>
-File: IMG_9061cropped3.jpg Graphic file (type jpg)
+<PersonalFotoBgMaster.png, id=1, 87.80804pt x 119.12505pt>
+File: PersonalFotoBgMaster.png Graphic file (type png)
 
-<use IMG_9061cropped3.jpg>
-Package pdftex.def Info: IMG_9061cropped3.jpg used on input line 113.
-(pdftex.def)             Requested size: 105.2751pt x 108.76753pt.
+<use PersonalFotoBgMaster.png>
+Package pdftex.def Info: PersonalFotoBgMaster.png used on input line 115.
+(pdftex.def)             Requested size: 85.35826pt x 115.80562pt.
 
-Overfull \hbox (78.86089pt too wide) in paragraph at lines 96--124
+Overfull \hbox (80.68172pt too wide) in paragraph at lines 98--126
 []$[]$ $[]$
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 131--191
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 154--215
 [][] 
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 193--199
-[][] 
- []
-
-
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 201--206
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 217--230
 [][] 
  []
 
 [1
 
 {C:/Users/iliya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/mystuff/
-workspaceGitCv/Info/IMG_9061cropped3.jpg>]
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 219--238
+workspaceGitCv/Info/PersonalFotoBgMaster.png>]
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 243--267
 [][] 
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 273--280
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 302--309
 [][] 
  []
 
 
-Overfull \hbox (10.16891pt too wide) in paragraph at lines 282--289
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 311--320
 [][] 
  []
 
 (C:\mystuff\workspaceGitCv\Info\document.bbl) [2]
 (C:\mystuff\workspaceGitCv\Info\document.aux) ) 
 Here is how much of TeX's memory you used:
- 3748 strings out of 494045
- 49652 string characters out of 3148386
- 216629 words of memory out of 3000000
+ 3747 strings out of 494045
+ 49668 string characters out of 3148386
+ 217633 words of memory out of 3000000
  6994 multiletter control sequences out of 15000+200000
  44052 words of font info for 39 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -410,9 +405,9 @@ MiKTeX/2.9/fonts/enc/dvips/iwona/rm-iwona.enc}<C:/Users/iliya/AppData/Roaming/M
 iKTeX/2.9/fonts/type1/nowacki/iwona/iwonal.pfb><C:/Users/iliya/AppData/Roaming/
 MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonali.pfb><C:/Users/iliya/AppData/Roamin
 g/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonam.pfb>
-Output written on document.pdf (2 pages, 543911 bytes).
+Output written on document.pdf (2 pages, 1458638 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
