@@ -11,10 +11,8 @@ P.~Cudr\'e-Mauroux, G.~Demartini, I.~Enchev, C.~Gu\'eret, and B.~Perroud.
 P.~Cudr\'e-Mauroux, I.~Enchev, S.~Fundatureanu, P.~Groth, A.~Haque, A.~Harth,
   F.~Keppmann, D.~Miranker, J.~Sequeda, and M.~Wylot.
 \newblock Nosql databases for rdf: An empirical evaluation.
-\newblock In H.~Alani, L.~Kagal, A.~Fokoue, P.~Groth, C.~Biemann, J.~Parreira,
-  L.~Aroyo, N.~Noy, C.~Welty, and K.~Janowicz, editors, {\em The Semantic Web -
-  ISWC 2013}, volume 8219 of {\em Lecture Notes in Computer Science}, pages
-  310--325. Springer Berlin Heidelberg, 2013.
+\newblock In {\em The Semantic Web - ISWC 2013}, volume 8219 of {\em Lecture
+  Notes in Computer Science}, pages 310--325. Springer Berlin Heidelberg, 2013.
 
 \bibitem{bowlognaBench}
 G.~Demartini, I.~Enchev, J.~Gapany, and P.~Cudr\'e-Mauroux.
