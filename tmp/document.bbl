@@ -1,21 +1,30 @@
 \begin{thebibliography}{1}
 
 \bibitem{downScale}
-P.~Cudré-Mauroux, G.~Demartini, I.~Enchev, C.~Guéret, and B.~Perroud.
+P.~Cudr\'e-Mauroux, G.~Demartini, I.~Enchev, C.~Gu\'eret, and B.~Perroud.
 \newblock Downscaling entity registries for ad-hoc environments.
 \newblock In {\em First International Workshop on Downscaling the Semantic Web
   co-located with the 9th Extended Semantic Web conference, Heraklion, Greece},
   May 2012.
 
+\bibitem{nosqlrdf}
+P.~Cudr\'e-Mauroux, I.~Enchev, S.~Fundatureanu, P.~Groth, A.~Haque, A.~Harth,
+  F.~Keppmann, D.~Miranker, J.~Sequeda, and M.~Wylot.
+\newblock Nosql databases for rdf: An empirical evaluation.
+\newblock In H.~Alani, L.~Kagal, A.~Fokoue, P.~Groth, C.~Biemann, J.~Parreira,
+  L.~Aroyo, N.~Noy, C.~Welty, and K.~Janowicz, editors, {\em The Semantic Web -
+  ISWC 2013}, volume 8219 of {\em Lecture Notes in Computer Science}, pages
+  310--325. Springer Berlin Heidelberg, 2013.
+
 \bibitem{bowlognaBench}
-G.~Demartini, I.~Enchev, J.~Gapany, and P.~Cudré-Mauroux.
+G.~Demartini, I.~Enchev, J.~Gapany, and P.~Cudr\'e-Mauroux.
 \newblock Bowlognabench-benchmarking rdf analytics.
 \newblock In {\em First International Symposium on Data-driven Process
   Discovery and Analysis (SIMPDA 2011), Campione d'Italia, Italy}, pages
   29--43, June 2011.
 
 \bibitem{bowlFost}
-G.~Demartini, I.~Enchev, J.~Gapany, P.~Cudré-Mauroux, and Agarwal.
+G.~Demartini, I.~Enchev, J.~Gapany, P.~Cudr\'e-Mauroux, and Agarwal.
 \newblock The bowlogna ontology: Fostering open curricula and agile knowledge
   bases for europe's higher education landscape.
 \newblock {\em Semantic Web - Interoperability, Usability, Applicability},

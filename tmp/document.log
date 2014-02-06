@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  5 FEB 2014 23:24
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  6 FEB 2014 08:58
 entering extended mode
 **document.tex
 (C:\mystuff\workspaceGitCv\Info\document.tex
@@ -363,12 +363,12 @@ Overfull \hbox (80.68172pt too wide) in paragraph at lines 99--128
  []
 
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 163--223
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 164--227
 [][] 
  []
 
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 225--238
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 229--242
 [][] 
  []
 
@@ -376,38 +376,38 @@ Overfull \hbox (9.8275pt too wide) in paragraph at lines 225--238
 
 {C:/Users/iliya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/mystuff/
 workspaceGitCv/Info/IMG_9061cropped3.jpg>]
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 251--276
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 255--280
 [][] 
  []
 
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 311--321
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 315--325
 [][] 
  []
 
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 323--333
+Overfull \hbox (9.8275pt too wide) in paragraph at lines 327--337
 [][] 
  []
 
-(C:\mystuff\workspaceGitCv\Info\document.bbl) [2]
+(C:\mystuff\workspaceGitCv\Info\document.bbl [2]) [3]
 (C:\mystuff\workspaceGitCv\Info\document.aux) ) 
 Here is how much of TeX's memory you used:
- 3748 strings out of 494045
- 49652 string characters out of 3148386
- 217629 words of memory out of 3000000
- 6994 multiletter control sequences out of 15000+200000
+ 3750 strings out of 494045
+ 49670 string characters out of 3148386
+ 218632 words of memory out of 3000000
+ 6996 multiletter control sequences out of 15000+200000
  44052 words of font info for 39 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 37i,14n,45p,938b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,14n,45p,938b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/iliya/AppData/Roaming/
 MiKTeX/2.9/fonts/enc/dvips/iwona/rm-iwona.enc}<C:/Users/iliya/AppData/Roaming/M
 iKTeX/2.9/fonts/type1/nowacki/iwona/iwonal.pfb><C:/Users/iliya/AppData/Roaming/
 MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonali.pfb><C:/Users/iliya/AppData/Roamin
 g/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonam.pfb>
-Output written on document.pdf (2 pages, 544246 bytes).
+Output written on document.pdf (3 pages, 545402 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
