@@ -16,7 +16,7 @@
 %   \selectfont
 % \usepackage[utf8]{inputenc} 
 \usepackage{array, xcolor, lipsum, bibentry}
-\usepackage[top=0.7cm, bottom=1.5cm, left=1.9cm, right=1.9cm]{geometry} 
+\usepackage[top=1.6cm, bottom=1.5cm, left=1.8cm, right=1.9cm]{geometry} 
 % \usepackage[margin=2.0cm]{geometry} 
 %lmargin=3.0cm, rmargin=1.0cm,tmargin=2.50cm,bmargin=2.50cm
 \usepackage{longtable}
@@ -42,12 +42,12 @@
 
 %     \usepackage{titlesec}
 %     \titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
-
+ 
 \newcommand{\addphoto}[2]{%
   \smash{%
     \makebox[0pt][l]{%
       \raisebox{#1pt}{%
-        \hspace{#2pt}\includegraphics[width=3.4cm]{IMG_9061cropped3}%IMG_9061cropped3
+        \hspace{#2pt}\includegraphics[width=3.4cm]{iliya_mug_0715}%IMG_9061cropped3
         % bgMasterPhotoSmall
 %         \includegraphics[width=3.7cm]
         % PersonalFotoBgMaster
@@ -67,8 +67,8 @@
 % \addphoto{5}{150}
 
 \definecolor{lightgray}{gray}{0.8} 
-\newcolumntype{L}{>{\raggedleft}p{0.17\textwidth}}
-\newcolumntype{R}{p{0.8\textwidth}}
+\newcolumntype{L}{>{\raggedleft}p{0.20\textwidth}}
+\newcolumntype{R}{>{\arraybackslash}p{0.75\textwidth}X}
 \newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
 
 
@@ -129,16 +129,17 @@ Born: 29.03.1986
 %15pt
 
 
-\section*{Objective}
-I am applying for the position of LDBC Community manager. The LDBC project is
-of particular interest to me, since I have worked on creating an RDF
-benchmark \cite{bowlognaBench} and I have done evaluations with several other
-benchmarks \cite{nosqlrdf}. I have experienced the need for more unified
-standards in the field of RDF and Graph databases, where most solutions are
-very specific and datasets vary widely in their structure so a
-cross comparison is difficult. Realizing the seriousness of the issue
-I'd be happy to help others in the field and spread the word of a
-possible solution.
+%\section*{Objective}
+% I am applying for the position of LDBC Community manager. The LDBC project is
+% of particular interest to me, since I have worked on creating an RDF
+% benchmark \cite{bowlognaBench} and I have done evaluations with several other
+% benchmarks \cite{nosqlrdf}. I have experienced the need for more unified
+% standards in the field of RDF and Graph databases, where most solutions are
+% very specific and datasets vary widely in their structure so a
+% cross comparison is difficult. Realizing the seriousness of the issue
+% I'd be happy to help others in the field and spread the word of a
+% possible solution.
+
 % After finishing my Master studies I took up the opportunity to
 % work for a little while in the academic world, focusing on the Semantic Web and
 % Linked Data. Now I am looking for a challenging long-term assignment, where I
@@ -173,34 +174,76 @@ possible solution.
 \section*{Relevant work experience}
 
 \begin{tabular}{L!{\VRule}R}
-Dec. 13--present&{\bf Research Associate at Ontotext}\\
-&Collaboration on NoSQL data bases used as RDF stores.\\
-Oct. 13--present&{\bf Software Engineer at ELCA}, Bern\\
-&{\it ASTRA Verkehrs Management} -- Road traffic management project for the
-Federal Roads Office. Responsabilities: developing new functionalities and bug
-fixing.
-Technologies: Java, GWTP, GXT, Hibernate, Spring, Maven etc.\\
-Feb. 13--May 13&{\bf Scientific Collaborator at eXascale Infolab}, led by
-Prof. Philippe Cudr\'e-Mauroux, University of Fribourg, Switzerland\\
-&{\it NoSQL RDF Benchmark} -- Implementation of SPARQL with Apache
-Jena on top of Couchbase document database for running Berlin and
-DBpedia SPARQL Benchmarks on clusters of up to 16 nodes with large
-datasets.\cite{nosqlrdf} \\
-Jan. 11--May 12&{\it Project Bowlogna} -- Transforming relational
-university data into RDF ontology and developing a Web visualization for
-interaction with it. Developing ontology generator based on the same data.
-Technologies: Jena, AllegroGraph, SPARQL, JavaScript, Ajax, jQuery, Cytoscape
-Web.\cite{ bowlognaBench, bowlFost}\\
+% Dec. 13--present&{\bf Research Associate at Ontotext}\\
+% &Collaboration on NoSQL data bases used as RDF stores.\\
+ELCA Bern\\
+{\bf DWH/ETL Developer}\\
+Jun. 14--Jul.15\\&{\it Consultant by CFF} with several ETL projects. Developed
+a Java application for automated Workflow generation for Host DB2 to Oracle
+migration together with scripts for DDL generation, workflow loading and
+running; projects with bitemporal, analytical and hierarchical queries;
+administration of ETL environment.\\
+Acquired knowledge\\&PowerCenter ecosystem,
+DWH/ETL, Oracle SQL, Unix, Bash, Java, Maven, Regex.\\
+{\bf Software Engineer}\\
+Oct. 13--May 14&{\it ASTRA Road Traffic Management} --
+%for the Federal Roads Office. 
+Developed new features - from web service
+consumption or DB access up the stack to the UI. Applied a JavaScript library for time series visualization,
+bug fixing and performance testing.
 
+Java, GWTP, GXT, Hibernate, Spring, Maven, Continuous Integration (Jenkins),
+Junit.
+\\&\\
+
+% LDBC\\
+% {\bf Dissemination Mgr}\\
+% Oct. 14 -- Mar. 15\\&Part-time, helped the dissemination efforts of the European
+% funded project Linked Data Benchmark Council. Took part in the writing of
+% several blog posts, was responsible for social media accounts. Achieved several
+% peaks in activity.\\
+
+% Developed several new features of the application from web service consumption or DB access up the
+% stack to the UI. Applied a JavaScript library for time series visualisation,
+% partisipated in bug fixing and performance testing.
+%Bug fixing including a bug with unecessary rebuild of UI that hampered
+%performance. 
+%Acquired knowledge in: Java, GWTP, GXT, Hibernate, Spring, Maven, Continuous
+% Integration (Jenkins), JUnit, etc.\\
+
+eXascale Infolab by Prof. Cudr\'e-Mauroux\\
+{\bf Scientific Collaborator}\\
+Jan. 11--May 13\\&{\it NoSQL RDF Benchmark} -- Implemented a SPARQL endpoint
+using Apache Jena and a document database for running benchmark tests on clusters of
+up to 16 nodes. \cite{nosqlrdf}
+% Implemented a SPARQL endpoint with Apache
+% Jena on top of Couchbase document database for running Berlin and
+% DBpedia SPARQL Benchmarks on clusters of up to 16 nodes with large
+%datasets.
+{\it Project Bowlogna} -- Transformed relational
+university data into RDF ontology and developed a web visualization for
+interaction with it. Developed ontology generator based on the same data. \cite{
+bowlognaBench, bowlFost}
+% Technologies: Java, Hibernate, Jena, AllegroGraph, SPARQL, JavaScript, Ajax,
+% jQuery.
+
+Java, CouchBase, Unix,
+SPARQL, Hibernate, AllegroGraph, JavaScript, Ajax, jQuery,
+collaborative scientific writing.\\
+\\
 %\end{tabular}
 %\begin{tabular}{L!{\VRule}R}
-Nov. 12--Feb. 13&{\bf Collaborator at DERI}, Galway, Ireland, supervised by
-Michael Hausenblas\\
-&{\it Project Spitfire, LD4Sensors} -- Application for enriching sensor
-metadata and sensor observations with Linked Data. Decoupling the
-underlying RDF data store from the LD annotations layer, so that
-data can be modified by other applications, updating the
-REST API provided by the application.\\
+DERI, Ireland\\
+{\bf Intern}\\
+%supervised by Michael Hausenblas\\
+Nov. 12--Feb. 13\\
+&{\it Project Spitfire, LD4Sensors} -- IOT application for enriching sensor
+observations and metadata with Linked Data. Decoupled the underlying RDF store
+from the Linked Data annotations layer, so data can be modified by other
+applications, improved the application's REST API.
+
+Linked Data, Java, Git, Maven\\
+\\
 
 %\end{tabular}
 
@@ -218,44 +261,52 @@ REST API provided by the application.\\
 %\clearpage
 %\section*{}
 %\begin{tabular}{L!{\VRule}R}
-Feb. 09--Aug. 10&{\bf Junior Software Engineer at Musala Soft}, Sofia, Bulgaria
-\\
-projects&{\it Barracuda for Mtel} -- %The biggest mobile operator in Bulgaria,
-% part of Mobilkom Austria Group. 
-Integration project for substituting legacy
-billing%, ordering 
-and CRM systems.\\
+Musala Soft, Bulgaria\\
+{\bf Junior Software Engineer}\\
+Feb. 09--Aug. 10&Two Java EE Projects focused on development and testing. One
+data integration project focused on SQL, PL/SQL, refactoring.
+
+Java EE, Hibernate, Oracle DB, SQL, JSF, EJB 3.0, Web
+Services, Agile Methodologies, communication in large distributed teams. SCJP Certificate.
+ %Experience with  {\it
+%Barracuda for Mtel} --
+%The biggest mobile operator in Bulgaria, part of Mobilkom Austria Group. 
+%Integration project for substituting legacy
+%billing%, ordering 
+%and CRM systems.
 %  with products developed by Amdocs.\\
-&{\it Declaration Management System (DMS)} with IBM Netherlands -- 
-control and administation of movements
-of goods through Dutch Customs.\\
-&{\it Content Delivery Platform} for Mobilkom Austria, 
-application for mobile entertainment content, % on mobile phones 
+%{\it Declaration Management System (DMS)} with IBM Netherlands -- 
+%control and administation of movements
+%of goods through Dutch Customs.
+
+%{\it Content Delivery Platform} for Mobilkom Austria, 
+%application for mobile entertainment content, % on mobile phones 
 % -- games, ring tones, pictures 
-accessible through Web or WAP interface.\\
-responsibilities&Refactoring and testing PL/SQL procedures that extract
-information relevant to billing cycles and different kinds of services and 
-subscribers and provide this information to SAP 
-accounting system. Code design, implementation and refactoring. 
+%accessible through Web or WAP interface.
+
+%Responsible for refactoring and testing PL/SQL procedures that extract
+%information relevant to billing cycles and different kinds of services and 
+%subscribers and provide this information to SAP 
+%accounting system. Code design, implementation and refactoring. 
 %integration activities, close communication with team members, troubleshooting
 %critical production issues. 
-Technologies: Java EE, JSF, EJB, Hibernate ORM, Oracle DB.\\
+%Technologies: Java EE, JSF, EJB, Hibernate ORM, Oracle DB.\\
 \end{tabular}
 
-\section*{IT Skills}
-\begin{tabular}{L!{\VRule}R}
-software development&Java SE/EE, JSP, JSF, Servlets,
-Hibernate, JavaScript, JSON, Ajax, jQuery, Web Services, Oracle DB, SQL, PL/SQL, Apache
-Cassandra, Couchbase, MapReduce, RDF, Apache Jena, SPARQL, Linux, Git, SVN
-\\
+%\section*{IT Skills}
+%\begin{tabular}{L!{\VRule}R}
+%software development&Java SE/EE, JSP, JSF, Servlets,
+%Hibernate, JavaScript, JSON, Ajax, jQuery, Web Services, Oracle DB, SQL,
+% PL/SQL, Apache Cassandra, Couchbase, MapReduce, RDF, Apache Jena, SPARQL, Linux, Git, SVN
+%\\
 % \end{tabular}
 % 
 % \section*{}
 % \begin{tabular}{L!{\VRule}R}
 % tools&dsdad\\
-certification&Sun Certified Programmer for the Java Platform, Standard Edition 6\\
-&Sun Certified Business Component Developer for the Java EE 5\\
-\end{tabular}
+% certification&Sun Certified Programmer for the Java Platform, Standard Edition 6\\
+% &Sun Certified Business Component Developer for the Java EE 5\\
+% \end{tabular}
 
 % \section*{Master's thesis}
 % \begin{tabular}{L!{\VRule}R}
@@ -276,24 +327,32 @@ certification&Sun Certified Programmer for the Java Platform, Standard Edition 6
 %Comparison of four data store solutions -- AllegroGraph, Open Chord, Apache
 %Cassandra, MySQL in their ability to handle RDF entities, using a benchmarking
 %suite developed in Java.\cite{downScale}\\
-Sep. 10--Oct. 12&{\bf MSc in Computer Science,} Swiss Joint Master of
-Science in Computer Science, Universities of Fribourg, Bern and Neuch\^atel,
-Switzerland\\ %\vspace{5pt}
-emphasis&Software Engineering -- several courses and three
-projects based on GWT, Google maps API, SOAP, REST, MongoDB, Django; Agile
-Methodologies; Data Management, Ubiquitous computing; Distributed Systems;
-Concurrent programming.\\
-Master's thesis&{\bf Unconventional Store Systems for RDF Data}\\
-description&Overview on main points of the Web, Semantic Web and Linked
+BeNeFri\\
+{\bf MSc in Computer Science}\\
+Sep. 10--Oct. 12&
+% Science in Computer Science, Universities of Fribourg, Bern and Neuch\^atel,
+% Switzerland\\ %\vspace{5pt}
+
+Master's thesis: {\bf Unconventional Store Systems for RDF Data},
+overview on main points of the Web, Semantic Web and Linked
 Data. Analysis and performance comparison of data store and entity registry
-systems -- DNS, DOA, ENS, Chord DHT, CoralCDN, AllegroGraph, Apache
-Cassandra and MySQL in their ability to handle RDF entities,
-using own Java benchmarking suite.\cite{downScale}\\
-2005--2009&{\bf BSc in Computer Science,} German Engineering Faculty of the
+systems -- {\bf DNS}, DOA, ENS, Chord DHT, CoralCDN, AllegroGraph, {\bfApache
+Cassandra} and MySQL in their ability to handle RDF entities, using own Java benchmarking suite.\cite{downScale}
+During studies: emphasis on Software Engineering -- several courses on
+Concurrent programming, Agile Methodologies, Data Management, Ubiquitous
+computing, Distributed Systems, User Centered Desing; three projects based on
+GWT, Google maps API, SOAP, REST, MongoDB. \\
+\\
+% Django; \\
+{\bf BSc in Computer Science}\\
+2005--2009&German Engineering Faculty of the
 Technical University of Sofia, Bulgaria; courses taught in German\\
-Mar. 08--Aug. 08&{\bf Erasmus exchange student,} Karlsruhe Institute of
-Technology -- KIT, Germany
-\end{tabular}
+Mar. 08--Aug. 08&Erasmus exchange student, Karlsruhe Institute of
+Technology -- KIT, Germany\\
+\\
+{\bf Languages}&Bulgarian, English, German, French, Russian
+% {\bf Languages}&Bulkgarian (mother tongue), English, German, French, Russian
+ \end{tabular}
 
 
 
@@ -328,30 +387,30 @@ Technology -- KIT, Germany
 
 
 
-\section*{Languages}
-\begin{tabular}{L!{\VRule}R} 
-Bulgarian&Mother tongue\\
-English&Excellent C1 -- Certificate in Advanced English -- CAE; working in the
-USA and Ireland\\
-German&Excellent C1 -- DSH-Deutsche Sprachpr\"ufung f\"ur den Hochschulzugang\\
-French&Intermediate B1 -- evening courses and courses at university, experience
-in CH\\
-Russian&Basic A2 -- second foreign language at secondary school
-\end{tabular} 
+% \section*{Languages}
+% \begin{tabular}{L!{\VRule}R} 
+% Bulgarian&Mother tongue\\
+% English&Excellent C1 -- Certificate in Advanced English -- CAE; working in the
+% USA and Ireland\\
+% German&Excellent C1 -- DSH-Deutsche Sprachpr\"ufung f\"ur den Hochschulzugang\\
+% French&Intermediate B1 -- evening courses and courses at university, experience
+% in CH\\
+% Russian&Basic A2 -- second foreign language at secondary school
+% \end{tabular} 
  
 \section*{Miscellaneous}
 \begin{tabular}{L!{\VRule}R}
-leisure&Cycling; swimming; playing a %Bulgarian 
-folk
-instrument -- gadulka; travelling; cooking;\\
+Leisure&Cycling, singing, vietnamese martial arts, 
+% playing a %Bulgarian folk instrument -- gadulka; 
+travelling, cooking, Drupal website\\
 %all sorts of bikes;
 %swimming; 
 %playing a Bulgarian folk instrument -- gadulka; travelling locally and %since
 % elementary school
 %abroad; cooking \\
-soft skills&social networks, online hangouts for open source projects; a good
-team player\\
-driving license&A+B since 2004\\
+%soft skills&social networks, online hangouts for open source projects; a good
+%team player\\
+Driver's license&A+B since 2004\\
 \end{tabular}
 
     %\renewcommand\bibsection{\subsection{\refname}}

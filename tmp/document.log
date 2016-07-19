@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  6 FEB 2014 09:52
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.15)  19 JUL 2016 06:25
 entering extended mode
 **document.tex
 (C:\mystuff\workspaceGitCv\Info\document.tex
@@ -257,20 +257,20 @@ LaTeX Info: Redefining \today on input line 724.
 \dt@a=\toks19
 \dt@b=\toks20
 ) (C:\mystuff\workspaceGitCv\Info\document.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Try loading font information for OT1+iwonal on input line 8
-9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Try loading font information for OT1+iwonal on input line 9
+1.
 
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\ot1iwonal.fd
 File: ot1iwonal.fd 2008/07/22 v0.995 font definition file for OT1/iwonal (MW)
@@ -297,15 +297,15 @@ File: ot1iwonal.fd 2008/07/22 v0.995 font definition file for OT1/iwonal (MW)
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(62.59596pt, 489.10307pt, 62.59596pt)
-* v-part:(T,H,B)=(62.59596pt, 669.77806pt, 62.59596pt)
+* h-part:(L,W,R)=(51.21504pt, 509.0199pt, 54.06006pt)
+* v-part:(T,H,B)=(45.52458pt, 706.76628pt, 42.67912pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=489.10307pt
-* \textheight=669.77806pt
-* \oddsidemargin=-9.67403pt
-* \evensidemargin=-9.67403pt
-* \topmargin=-46.67403pt
+* \textwidth=509.0199pt
+* \textheight=706.76628pt
+* \oddsidemargin=-21.05495pt
+* \evensidemargin=-21.05495pt
+* \topmargin=-63.7454pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -324,79 +324,99 @@ File: ot1iwonal.fd 2008/07/22 v0.995 font definition file for OT1/iwonal (MW)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--111
+Underfull \hbox (badness 10000) in paragraph at lines 102--113
 
  []
 
 LaTeX Font Info:    Try loading font information for OT1+iwonalm on input line 
-111.
+113.
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\ot1iwonalm.fd
 File: ot1iwonalm.fd 2005/10/05 v1.2 font definition file for OT1/iwonalm (MW)
 )
 LaTeX Font Info:    Try loading font information for OML+iwonal on input line 1
-11.
+13.
 
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\omliwonal.fd
 File: omliwonal.fd 2008/07/22 v0.995 font definition file for OML/iwonal (MW)
 )
 LaTeX Font Info:    Try loading font information for OMS+iwonal on input line 1
-11.
+13.
 
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\omsiwonal.fd
 File: omsiwonal.fd 2008/07/22 v0.995 font definition file for OMS/iwonal (MW)
 )
 LaTeX Font Info:    Try loading font information for OMX+iwonal on input line 1
-11.
+13.
 
 (C:\Users\iliya\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\omxiwonal.fd
 File: omxiwonal.fd 2008/07/22 v0.995 font definition file for OMX/iwonal (MW)
 )
-<IMG_9061cropped3.jpg, id=1, 1355.8153pt x 1400.98407pt>
-File: IMG_9061cropped3.jpg Graphic file (type jpg)
+<iliya_mug_0715.jpg, id=1, 432.4155pt x 496.6555pt>
+File: iliya_mug_0715.jpg Graphic file (type jpg)
+ <use iliya_mug_0715.jpg>
+Package pdftex.def Info: iliya_mug_0715.jpg used on input line 119.
+(pdftex.def)             Requested size: 96.73918pt x 111.10608pt.
 
-<use IMG_9061cropped3.jpg>
-Package pdftex.def Info: IMG_9061cropped3.jpg used on input line 117.
-(pdftex.def)             Requested size: 96.73918pt x 99.9601pt.
-
-Overfull \hbox (80.68172pt too wide) in paragraph at lines 99--128
+Overfull \hbox (83.86816pt too wide) in paragraph at lines 101--130
 []$[]$ $[]$
  []
 
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 166--233
-[][] 
- []
+! Package array Error:  Illegal pream-token (X): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 \begin{tabular}{L!{\VRule}R}
+                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 235--248
-[][] 
- []
+! Package array Error:  Illegal pream-token (X): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.323 \begin{tabular}{L!{\VRule}R}
+                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.339 ...d DHT, CoralCDN, AllegroGraph, {\bfApache
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 [1
 
 {C:/Users/iliya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/mystuff/
-workspaceGitCv/Info/IMG_9061cropped3.jpg>]
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 261--286
-[][] 
- []
+workspaceGitCv/Info/iliya_mug_0715.jpg>]
 
+! Package array Error:  Illegal pream-token (X): `c' used.
 
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 321--330
-[][] 
- []
-
-
-Overfull \hbox (9.8275pt too wide) in paragraph at lines 332--343
-[][] 
- []
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.402 \begin{tabular}{L!{\VRule}R}
+                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 (C:\mystuff\workspaceGitCv\Info\document.bbl) [2]
 (C:\mystuff\workspaceGitCv\Info\document.aux) ) 
 Here is how much of TeX's memory you used:
- 3752 strings out of 494045
- 49684 string characters out of 3148386
- 217632 words of memory out of 3000000
- 6998 multiletter control sequences out of 15000+200000
+ 3750 strings out of 494045
+ 49658 string characters out of 3148386
+ 218661 words of memory out of 3000000
+ 6996 multiletter control sequences out of 15000+200000
  44052 words of font info for 39 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  37i,14n,45p,938b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -405,7 +425,7 @@ MiKTeX/2.9/fonts/enc/dvips/iwona/rm-iwona.enc}<C:/Users/iliya/AppData/Roaming/M
 iKTeX/2.9/fonts/type1/nowacki/iwona/iwonal.pfb><C:/Users/iliya/AppData/Roaming/
 MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonali.pfb><C:/Users/iliya/AppData/Roamin
 g/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonam.pfb>
-Output written on document.pdf (2 pages, 544345 bytes).
+Output written on document.pdf (2 pages, 308403 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
